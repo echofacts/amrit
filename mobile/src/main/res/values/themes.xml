@@ -47,8 +47,8 @@
 
 	<!-- blue theme -->
 	<style name="Theme.WebViewApp.Blue" parent="@style/Theme.WebViewApp">
-		<item name="colorPrimary">@color/global_color_blue_primary</item>
-		<item name="colorPrimaryDark">@color/global_color_blue_primary_dark</item>
+		<item name="colorPrimary">@color/status_colour</item>
+		<item name="colorPrimaryDark">@color/status_colour</item>
 	</style>
 
 	<!-- brown theme -->

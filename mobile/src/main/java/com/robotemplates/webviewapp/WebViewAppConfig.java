@@ -9,7 +9,7 @@ public class WebViewAppConfig {
 	public static final String PURCHASE_CODE = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX";
 
 	// true for showing action bar
-	public static final boolean ACTION_BAR = true;
+	public static final boolean ACTION_BAR = false;
 
 	// true for showing html title rather than navigation title in the action bar
 	public static final boolean ACTION_BAR_HTML_TITLE = false;
