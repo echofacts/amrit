@@ -9,23 +9,23 @@ public class WebViewAppConfig {
 	public static final String PURCHASE_CODE = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX";
 
 	// true for showing action bar
-	public static final boolean ACTION_BAR = false;
+	public static final boolean ACTION_BAR =false;
 
 	// true for showing html title rather than navigation title in the action bar
 	public static final boolean ACTION_BAR_HTML_TITLE = false;
 
 	// true for enabling navigation drawer menu
-	public static final boolean NAVIGATION_DRAWER = true;
+	public static final boolean NAVIGATION_DRAWER = false;
 
 	// true for enabling background image in the header of the navigation drawer menu,
 	// otherwise accent color will be used,
 	// background image is stored in navigation_header_bg.png
-	public static final boolean NAVIGATION_DRAWER_HEADER_IMAGE = true;
+	public static final boolean NAVIGATION_DRAWER_HEADER_IMAGE = false;
 
 	// true for enabling icon tint in the navigation drawer menu,
 	// note that only transparent PNG icons can be tinted,
 	// tint color is defined in @color/navigation_icon_tint
-	public static final boolean NAVIGATION_DRAWER_ICON_TINT = true;
+	public static final boolean NAVIGATION_DRAWER_ICON_TINT = false;
 
 	// true for enabling exit confirmation when back button is pressed
 	public static final boolean EXIT_CONFIRMATION = true;
