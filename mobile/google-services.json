@@ -1,42 +1,39 @@
 {
-	"project_info": {
-		"project_number": "XXXXXXXXXXX",
-		"firebase_url": "https://dummy.firebaseio.com",
-		"project_id": "dummy",
-		"storage_bucket": "dummy.appspot.com"
-	},
-	"client": [
-		{
-			"client_info": {
-				"mobilesdk_app_id": "1:1035469437089:android:73a4fb8297b2cd4f",
-				"android_client_info": {
-					"package_name": "com.robotemplates.webviewapp"
-				}
-			},
-			"oauth_client": [
-				{
-					"client_id": "dummy.apps.googleusercontent.com",
-					"client_type": 3
-				}
-			],
-			"api_key": [
-				{
-					"current_key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-				}
-			],
-			"services": {
-				"analytics_service": {
-					"status": 1
-				},
-				"appinvite_service": {
-					"status": 1,
-					"other_platform_oauth_client": []
-				},
-				"ads_service": {
-					"status": 2
-				}
-			}
-		}
-	],
-	"configuration_version": "1"
+  "project_info": {
+    "project_number": "432282225687",
+    "project_id": "amrutras-b1959",
+    "storage_bucket": "amrutras-b1959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432282225687:android:cbf8d802684f78e54f6052",
+        "android_client_info": {
+          "package_name": "com.amrutras.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432282225687-g7bnb0emj9rpuar0odsl4t176g2237ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBriYHOeIbTQOoEhpdg3qnKjpfI3CZQt1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432282225687-g7bnb0emj9rpuar0odsl4t176g2237ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
