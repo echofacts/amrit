@@ -28,7 +28,7 @@
 	-->
 	<string-array name="navigation_url_list">
 		<item></item>
-		<item>https://newsguru18.com/stores/new</item>
+		<item>https://amrutras.com/stores/new</item>
 		<item>https://mock.robotemplates.com/webviewapp/features.html?fcm_token={FCM_REGISTRATION_TOKEN}</item>
 		<item>https://mock.robotemplates.com/webviewapp/support.html?user_id={ONE_SIGNAL_USER_ID}</item>
 		<item></item>
